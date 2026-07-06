@@ -47,7 +47,7 @@ def load_data():
         "OVERSTOCK"   if r["days_on_hand"]>90       else
         "HEALTHY", axis=1)
 
-    rx  = rx.merge(drugs[["drug_id","brand_name","is_specialty"]], on="drug_id", how="left")
+    rx  = rx.merge(drugs[["drug_id","brand_name"]], on="drug_id", how="left")
     po  = po.merge(suppliers[["supplier_id","supplier_name","performance_grade"]], on="supplier_id", how="left")
     po  = po.merge(drugs[["drug_id","brand_name","therapy_area"]], on="drug_id", how="left")
     rx["month"] = rx["rx_date"].dt.to_period("M").dt.to_timestamp()
