@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_type,state,performance_grade,lead_time_days,on_time_rate,fill_rate,contract_start,is_preferred
+SUP001,AmerisourceBergen,Wholesale Distributor,PA,A,7,0.973,0.932,2022-01-01,True
+SUP002,McKesson Corporation,Wholesale Distributor,TX,A,3,0.939,0.917,2022-01-01,True
+SUP003,Cardinal Health,Wholesale Distributor,OH,A,4,0.95,0.93,2022-01-01,True
+SUP004,AbbVie Inc,Manufacturer,IL,A,22,0.97,0.932,2022-01-01,True
+SUP005,Pfizer Inc,Manufacturer,NY,A,43,0.936,0.924,2022-01-01,True
+SUP006,Merck & Co,Manufacturer,NJ,A,43,0.982,0.97,2022-01-01,True
+SUP007,Novo Nordisk,Manufacturer,NJ,B,43,0.871,0.843,2022-01-01,False
+SUP008,Janssen Pharmaceuticals,Manufacturer,PA,A,19,0.965,0.945,2022-01-01,True
+SUP009,Biogen Inc,Manufacturer,MA,B,37,0.79,0.789,2022-01-01,False
+SUP010,Gilead Sciences,Manufacturer,CA,A,19,0.932,0.899,2022-01-01,True
+SUP011,AstraZeneca,Manufacturer,DE,A,41,0.902,0.885,2022-01-01,True
+SUP012,Sanofi,Manufacturer,NJ,B,15,0.78,0.753,2022-01-01,False
+SUP013,Amgen Inc,Manufacturer,CA,A,36,0.927,0.923,2022-01-01,True
+SUP014,BMS,Manufacturer,NY,A,30,0.983,0.957,2022-01-01,True
+SUP015,Generic Pharma Co,Generic Manufacturer,NJ,C,6,0.605,0.601,2022-01-01,False
+SUP016,Teva Pharmaceuticals,Generic Manufacturer,PA,B,5,0.78,0.748,2022-01-01,False
+SUP017,Mylan Pharmaceuticals,Generic Manufacturer,PA,C,4,0.672,0.648,2022-01-01,False
+SUP018,Sandoz,Generic Manufacturer,NJ,B,3,0.875,0.844,2022-01-01,False
+SUP019,Actavis,Generic Manufacturer,NJ,C,3,0.689,0.674,2022-01-01,False
+SUP020,Sun Pharma,Generic Manufacturer,NJ,C,9,0.609,0.594,2022-01-01,False

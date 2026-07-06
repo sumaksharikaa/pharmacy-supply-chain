@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,region,has_cold_storage,capacity_units
+WH001,Charlotte DC,Charlotte,NC,Southeast,True,50000
+WH002,Dallas DC,Dallas,TX,South Central,True,45000
+WH003,Los Angeles DC,Los Angeles,CA,West,True,48000
+WH004,Chicago DC,Chicago,IL,Midwest,False,42000
+WH005,New York DC,New York,NY,Northeast,True,47000

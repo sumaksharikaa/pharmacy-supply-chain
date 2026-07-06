@@ -1,0 +1,26 @@
+drug_id,brand_name,generic_name,primary_supplier_id,therapy_area,dosage_form,strength,unit_cost_usd,is_specialty,requires_cold_chain,days_supply_std,avg_monthly_units,ndc,reorder_point_units,safety_stock_units
+DRG001,Humira,Adalimumab,SUP004,Immunology,Injection,40mg,6500,True,True,30,5,21841-300-29,2,1
+DRG002,Enbrel,Etanercept,SUP005,Immunology,Injection,50mg,5800,True,True,30,5,49673-961-20,2,1
+DRG003,Stelara,Ustekinumab,SUP008,Dermatology,Injection,45mg,18000,True,True,20,3,34087-409-21,1,0
+DRG004,Keytruda,Pembrolizumab,SUP006,Oncology,Injection,200mg,22000,True,True,15,2,56088-839-94,1,0
+DRG005,Revlimid,Lenalidomide,SUP014,Oncology,Capsule,25mg,19000,True,False,20,3,71861-653-59,1,0
+DRG006,Ozempic,Semaglutide,SUP007,Diabetes,Injection,1mg,850,True,False,60,10,60842-615-61,5,2
+DRG007,Dupixent,Dupilumab,SUP012,Dermatology,Injection,300mg,3200,True,True,30,5,51711-836-64,2,1
+DRG008,Tecfidera,Dimethyl Fumarate,SUP009,Neurology,Capsule,240mg,8100,True,False,30,5,80018-891-90,2,1
+DRG009,Harvoni,Ledipasvir,SUP010,Hepatology,Tablet,90mg,31000,True,False,15,2,15317-747-42,1,0
+DRG010,Truvada,Emtricitabine,SUP010,Infectious Disease,Tablet,200mg,2700,False,False,90,15,15377-336-75,7,3
+DRG011,Lipitor,Atorvastatin,SUP005,Cardiology,Tablet,20mg,12,False,False,90,200,11906-684-69,100,50
+DRG012,Metformin,Metformin HCl,SUP015,Diabetes,Tablet,500mg,4,False,False,90,500,39325-153-58,250,125
+DRG013,Lisinopril,Lisinopril,SUP016,Cardiology,Tablet,10mg,3,False,False,90,600,40373-190-74,300,150
+DRG014,Amlodipine,Amlodipine,SUP017,Cardiology,Tablet,5mg,4,False,False,90,550,94448-864-64,275,137
+DRG015,Omeprazole,Omeprazole,SUP018,Gastroenterology,Capsule,20mg,6,False,False,90,400,35570-332-36,200,100
+DRG016,Eliquis,Apixaban,SUP014,Cardiology,Tablet,5mg,145,False,False,90,100,63791-274-49,50,25
+DRG017,Xarelto,Rivaroxaban,SUP008,Cardiology,Tablet,20mg,140,False,False,90,95,53292-949-11,47,23
+DRG018,Januvia,Sitagliptin,SUP006,Diabetes,Tablet,100mg,85,False,False,90,80,24041-945-62,40,20
+DRG019,Advair,Fluticasone/Salm,SUP011,Pulmonology,Inhaler,250mcg,95,False,False,30,60,50701-432-56,30,15
+DRG020,Crestor,Rosuvastatin,SUP011,Cardiology,Tablet,10mg,18,False,False,90,180,91143-307-40,90,45
+DRG021,Gabapentin,Gabapentin,SUP019,Neurology,Capsule,300mg,8,False,False,90,300,71339-279-31,150,75
+DRG022,Sertraline,Sertraline HCl,SUP020,Psychiatry,Tablet,50mg,5,False,False,90,350,38975-416-80,175,87
+DRG023,Levothyroxine,Levothyroxine,SUP015,Endocrinology,Tablet,50mcg,4,False,False,90,450,31240-550-36,225,112
+DRG024,Warfarin,Warfarin Sodium,SUP016,Cardiology,Tablet,5mg,6,False,False,30,120,49549-751-26,60,30
+DRG025,Furosemide,Furosemide,SUP017,Cardiology,Tablet,40mg,3,False,False,30,200,64409-945-70,100,50
